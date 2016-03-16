@@ -1,8 +1,10 @@
 # Reconhecimento Facial com Arduino+Processing+OpenCV
 Visão computacional: simples projeto de reconhecimento facial.
 
+![](https://github.com/rodriguesfas/Reconhecimento-Facial-Com-Arduino-Processing-OpenCV/blob/master/src/img/ex1.JPG)
+![](https://github.com/rodriguesfas/Reconhecimento-Facial-Com-Arduino-Processing-OpenCV/blob/master/src/img/ex2.JPG)
 ![](https://github.com/rodriguesfas/Reconhecimento-Facial-Com-Arduino-Processing-OpenCV/blob/master/src/img/ex.png)
-Esse projeto, mostra um exemplo simples de detecção facial com opencv e rastreamento de face com processing e arduino.
+ - Esse projeto, mostra um exemplo simples de detecção facial com opencv e rastreamento de face com processing e arduino.
 
 # Software
  - Arduino <http://arduino.cc>
